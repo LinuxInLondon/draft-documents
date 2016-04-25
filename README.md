@@ -10,7 +10,7 @@ Linux is striking, it is changing every week, there are new products coming out,
 
 Our objectives:
 
-*provide a friendly environment where people can come together, talk and be informed about free and open source software.
+* provide a friendly environment where people can come together, talk and be informed about free and open source software.
 * hold regular presentations from specialists on everything from the Linux kernel, the command line to Linux in the Cloud, and much more.
 * encourage everyone to talk about and to use free and open source software.  We are Linux distribution agnostic, we like BSD and all derivatives too!
 
