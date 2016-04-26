@@ -18,6 +18,7 @@ As someone who is part of this community and events, **you agree**:
 * We actively work towards: Being a safe community Cultivating a network of support & encouragement for each other
 * Welcome responsible and varied forms of expression
 
+```
 We condemn:
 * Stalking
 * Doxxing
@@ -26,6 +27,7 @@ We condemn:
 * Anything that compromises people’s safety
 
 These things are NOT OK.
+```
 
 If you say something that is found offensive, and you are called out on it:
 * Listen without interruption.
