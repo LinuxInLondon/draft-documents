@@ -2,11 +2,11 @@ Linuxing in London is the place for all things Linux*. It is an initiative to ex
 
 Our objectives are to:
 
-    * provide an engaging platform for industry speakers, educators, specialists and enthusiasts
-    * inform a wider audience on the benefits of Linux usage, the challenges happening in the industry
-    * stimulate appropriate debate on key technical themes
-    * encourage participation from the entire London tech community
-
+  * provide an engaging platform for industry speakers, educators, specialists and enthusiasts
+  * inform a wider audience on the benefits of Linux usage, the challenges happening in the industry
+  * stimulate appropriate debate on key technical themes
+  * encourage participation from the entire London tech community
+  
 Every month we will actively seek out talks from top Linux vendors, experts, and from our community.
 
 We encourage a large range of Linux fans to educate, exchange views, and be better informed through the open source revolution that is Linux!
