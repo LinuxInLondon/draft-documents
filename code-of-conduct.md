@@ -1,4 +1,4 @@
-**Linuxing London** strives to be an encouraging and safe space for everyone regardless of
+####**Linuxing London** strives to be an encouraging and safe space for everyone regardless of
 * gender, gender identity or gender expression sexual orientation
 * disability
 * physical appearance (including but not limited to body size)
@@ -8,7 +8,7 @@
 * level of education
 * political views
 
-As someone who is part of this community and events, **you agree**:
+####As someone who is part of this community and events, **you agree**:
 * We are collectively and individually committed to safety and inclusivity.
 * We have zero tolerance for abuse, harassment, or discrimination.
 * We respect people’s boundaries and identities.
@@ -29,7 +29,7 @@ We condemn:
 These things are NOT OK.
 ```
 
-If you say something that is found offensive, and you are called out on it:
+####If you say something that is found offensive, and you are called out on it:
 * Listen without interruption.
 * Believe what the person is saying & do not attempt to disqualify what they have to say.
 * Ask for tips / help with avoiding making the offense in the future.
@@ -37,6 +37,6 @@ If you say something that is found offensive, and you are called out on it:
 
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the group. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
-If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with the strictest of confidence.
+####If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with the strictest of confidence.
 
 Here is a list of the current team and how to contact them:
