@@ -8,13 +8,13 @@ Everyday we use Linux without even knowing it. It powers Google, Facebook, Docke
 
 Linux is striking, it is changing every week, there are new products coming out, almost at the speed of light. We need a tangible space to discuss those developments and learn from each other.
 
-Our objectives:
+####Our objectives:
 
 * provide a friendly environment where people can come together, talk and be informed about free and open source software.
 * hold regular presentations from specialists on everything from the Linux kernel, the command line to Linux in the Cloud, and much more.
 * encourage everyone to talk about and to use free and open source software.  We are Linux distribution agnostic, we like BSD and all derivatives too!
 
-All of our events are free to participants.
+**All of our events are free to participants.**
 
 We are drawing up a schedule for the next few months’ talks.
 
