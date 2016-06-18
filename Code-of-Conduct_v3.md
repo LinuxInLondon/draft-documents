@@ -6,7 +6,7 @@ The Linuxing in London Meetup strives to be an encouraging and safe space for ev
 Participants violating this code of conduct may be expelled from the event and/or our online community spaces at the discretion of the organisers.
 
 ### Long Version
-####  The Linuxing in London Meetup endeavours to be an encouraging and safe space for everyone regardless of gender, gender identity or gender expression sexual orientation; disability; physical appearance (including but not limited to body size); race; age; religion; level of education; political views or place of employment.
+The Linuxing in London Meetup endeavours to be an encouraging and safe space for everyone regardless of gender, gender identity or gender expression sexual orientation; disability; physical appearance (including but not limited to body size); race; age; religion; level of education; political views or place of employment.
 
 #### As a participant of this community and events, you agree:
 * We are collectively and individually committed to safety and inclusivity.
