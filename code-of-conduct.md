@@ -17,6 +17,7 @@
 * We encourage all people to learn, grow, and thrive.
 * We actively work towards: Being a safe community Cultivating a network of support & encouragement for each other
 * Welcome responsible and varied forms of expression
+* To be equally welcoming of opposing views to your own 
 
 ####We condemn:
 * Stalking
@@ -24,9 +25,17 @@
 * Publishing private information
 * Threats of harm, harassment
 * Anything that compromises people’s safety
+* Disrespect of our Members, our Speakers, their respective Organisations, and Organising Staff
 
 These things are NOT OK.
 
+####Examples of behaviour that contributes to creating a positive environment include:
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+* Directing efforts towards a fun Meetup
 
 ####If you say something that is found offensive, and you are called out on it:
 * Listen without interruption.
@@ -37,5 +46,10 @@ These things are NOT OK.
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the group. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
 
 ####If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with the strictest of confidence.
+
+####Organisers responsibilities
+Linuxing in London organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
+
+Linuxing in London organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any person for any behaviours that they deem inappropriate, threatening, offensive, or harmful.
 
 Here is a list of the current team and how to contact them:
