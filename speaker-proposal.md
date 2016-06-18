@@ -10,3 +10,5 @@ Quality content is critical to a successful event and is also crucial for receiv
 * Presentation Title - a appropriate and compelling title for your presentation
 * Presentation Description - 1-2 paragraph overview of topics covered
 * Presentation Objectives - list thing our audience would be likely to learn from attending
+
+Send your proposal to brianlinuxing@gmail.com
