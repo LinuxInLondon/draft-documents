@@ -54,9 +54,9 @@ Failing to follow the community guidelines as described in this document carries
 #### If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with the strictest of confidence. Do this in person, via the Meetup contact form, or via their contact information listed below.
 
 #### Organisers responsibilities
-Linuxing in London organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
+'Linuxing in London' organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
-Linuxing in London organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any person for any behaviours that they deem inappropriate, threatening, offensive, or harmful.
+'Linuxing in London' organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any person for any behaviours that they deem inappropriate, threatening, offensive, or harmful.
 
 Here is a list of the current organiser team and how to contact them:
 
