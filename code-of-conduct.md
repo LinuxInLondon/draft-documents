@@ -51,7 +51,7 @@ Participants violating these rules may be expelled from the event and/or online 
 
 Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the group. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently. This is at the discretion of the event organisers.
 
-#### If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with the strictest of confidence. Do this in person, via the Meetup contact form, or via their contact information listed below.
+#### If you experience abuse, harassment, discrimination, or feel unsafe, let an organiser know. The matter will be dealt with in the strictest of confidence. Do this in person, via the Meetup contact form, or via their contact information listed below.
 
 #### Organisers responsibilities
 'Linuxing in London' organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
