@@ -3,6 +3,8 @@
 ### Short Version
 'Linuxing in London' strives to be an encouraging and safe space for everyone.  We are collectively and individually committed to safety and inclusivity. We expect full respect of our Members, our Speakers, their respective Organisations, Organising Staff, Host Facilities, and their property.
 
+Participants violating these rules may be expelled from the event and/or online community spaces at the discretion of the organisers.
+
 ### Long Version
 #### 'Linuxing in London' strives to be an encouraging and safe space for everyone regardless of:
 * gender, gender identity or gender expression sexual orientation
@@ -13,6 +15,7 @@
 * religion
 * level of education
 * political views
+* place of employment
 
 #### As a participant of this community and events, you agree:
 * We are collectively and individually committed to safety and inclusivity.
@@ -40,7 +43,7 @@ These things are NOT OK.
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
-* Directing efforts towards a fun Meetup
+* Directing efforts towards building a outwardly positive Meetup experience for all
 
 #### If you say something that is found offensive, and you are called out on it:
 * Listen without interruption.
