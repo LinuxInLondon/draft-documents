@@ -11,4 +11,4 @@ Quality content is critical to a successful event and is also crucial for receiv
 * Presentation Description - 1-2 paragraph overview of topics covered
 * Presentation Objectives - list thing our audience would be likely to learn from attending
 
-Send your proposal to brianlinuxing@gmail.com
+Send your completed proposal to brianlinuxing@gmail.com
