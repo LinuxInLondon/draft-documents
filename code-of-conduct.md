@@ -27,7 +27,7 @@ Participants violating these rules may be expelled from the event and/or online 
 * We actively work towards: Being a safe community, cultivating a network of support & encouragement for each other.
 * Welcome responsible and varied forms of expression.
 * To be equally welcoming of opposing views to your own.
-* Fully respect our Members, our Speakers, their respective Organisations, and Organising Staff, Host Facilities, and their property.
+* Fully respect our Members, our Speakers, their respective Organisations, Organising Staff, Host Facilities, and their property.
 
 #### We condemn:
 * Stalking
