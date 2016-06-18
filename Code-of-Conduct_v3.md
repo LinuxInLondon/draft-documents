@@ -1,7 +1,7 @@
 ## Code of Conduct
 
 ### Short Version
-The Linuxing in London Meetup strives to be an encouraging and safe space for everyone. We are collectively and individually committed to safety and inclusiveness. We expect full respect of our members, our speakers, their respective organisations, the organising team, our hosts and their property.
+The Linuxing in London Meetup strives to be an encouraging and safe space for everyone. We are collectively and individually committed to safety and inclusiveness. We insist on full respect of our members, our speakers, their respective organisations, the organising team, our hosts and their property.
 
 Participants violating this code of conduct may be expelled from the event and/or our online community spaces at the discretion of the organisers.
 
