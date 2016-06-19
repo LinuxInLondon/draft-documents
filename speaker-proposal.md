@@ -24,4 +24,5 @@ Quality content is critical to a successful event and is also crucial for receiv
 * The emphasis should be on the audience learning
 * Direct promotion of your services, or products, must be cleared ahead of your presentation, and take up no more than 10% of your overall presentation running time
 * Members are not fans of direct pitching
-* If you've managed to present your expertise well on the topic, anyone wishing to know more from you is to be invited to take your contact details or speak to you off line 
+* If you've managed to present your expertise well on the topic, anyone wishing to know more from you is to be invited to take your contact details or speak to you off line
+* Linux is an Open Source product and ask of you to respect that not everyone is comfortable with the traditional top-down enterprise pitch
