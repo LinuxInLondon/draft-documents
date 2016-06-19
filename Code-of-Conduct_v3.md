@@ -18,7 +18,7 @@ The 'Linuxing in London' Meetup endeavours to be a positive and safe space for e
 * We welcome responsible and varied forms of expression.
 * We will not be rude or disrespectful.
 
-#### If you experience abuse, harassment, discrimination, or feel unsafe, please let an organiser know asap. The matter will be dealt with in the strictest of confidence. You can do this in person, via the Meetup contact form, or via their contact information listed below.
+#### If you experience abuse, harassment, discrimination, or feel unsafe, please let an organiser know ASAP. The matter will be dealt with in the strictest of confidence. You can do this in person, via the Meetup contact form, or via their contact information listed below.
 
 #### Organisers responsibilities:
 'Linuxing in London' Meetup organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
