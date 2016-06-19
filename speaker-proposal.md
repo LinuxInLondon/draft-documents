@@ -7,6 +7,11 @@ Quality content is critical to a successful event and is also crucial for receiv
 * Visibility – a speaker can be an true asset to our agenda, increase event attendance and attract overall interest
 
 ####To submit a proposal provide to us the following:
+* Your organisation name and website
+* Contact name, email, telephone number
+* Proposed date of presentation
 * Presentation Title - a appropriate and compelling title for your presentation
 * Presentation Description - 1-2 paragraph overview of topics covered
+* Expected running time - complete a dry run if possible
 * Presentation Objectives - list thing our audience would be likely to learn from attending
+* Required tools - our current venue, Skills Matter, provides much of this but please do not assume
