@@ -23,7 +23,7 @@ The 'Linuxing in London' Meetup endeavours to be a positive and safe space for e
 #### Organisers responsibilities:
 'Linuxing in London' Meetup organisers are responsible for clarifying the standards of acceptable behaviour and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behaviour.
 
-'Linuxing in London' Meetup organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct. This could include temporarily or permanently banning any person for any behaviours that they deem inappropriate, rude, threatening, offensive, or harmful.
+'Linuxing in London' Meetup organisers have the right and responsibility to remove, edit, or reject comments, commits, code, edits, issues, and other contributions that are not aligned to this Code of Conduct. This could include temporarily or permanently banning any person for any behaviours that organisers deem inappropriate, rude, threatening, offensive, or harmful, from the Meetup and/or the online community.
 
 The organising team and how to contact them:
 
