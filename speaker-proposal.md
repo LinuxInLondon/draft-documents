@@ -4,14 +4,16 @@ Quality content is critical to a successful event and is vital in receiving a po
 
 ####Speakers should provide:
 
-* Knowledge – a speaker with specific topic competence can provide timely insights on industry trends and best practices for our audience
+* Knowledge – a speaker with specific topic competence can provide timely insights on industry trends and best practices for our audience.
 
-* Inspiration – a speaker can offer a thought-provoking or motivational speech to encourage our audience to adopt new concepts or conquer new challenges
+* Inspiration – a speaker can offer a thought-provoking or motivational speech to encourage our audience to adopt new concepts or conquer new challenges.
 
-* Visibility – a speaker can be an true asset to our agenda, increase event attendance and attract overall interest in Linux, BSD and all derivatives 
+* Visibility – a speaker can be an true asset to our agenda, attract a greater attendance and increase overall interest in Linux, BSD and all derivatives. 
 
 ####To submit a proposal provide to us the following:
 
-* Presentation title - an appropriate and compelling title for your presentation
-* Presentation description – one to two paragraph overview of topics to be covered
-* Presentation objectives - list things our audience would be likely to learn from attending
+* Presentation title - an appropriate and compelling title for your presentation.
+
+* Presentation description – one to two paragraph overview of topics to be covered.
+
+* Presentation objectives - list things our audience would be likely to learn from attending.
