@@ -12,8 +12,14 @@ Whilst administering our events, providing feedback, obtaining support from you,
 ####Where The Data Is Stored
 We store your data on secured 3rd party services, which may be outside Europe. This could be viewed by event organisers. If you attend our Meetups this is meetup.com. If you contribute to the organisation this is github.com.
 
+####Keeping You Data Secure
+Transmitting information over the internet is generally not completely secure and we can't guarantee the security of your data. Any data you transmit is at your own risk.
+
+We have procedures and security features in place to help us in our efforts to keep your data secure once we receive it.
+
+We won't share your information with any other organisations for marketing, market research, or commerical purposes, and we don't pass on your details.
+
 ####Communications
 We may use your Personal Information to contact you with newsletters
 TBD
-
 
