@@ -1,6 +1,6 @@
 Last Updated: 20 June 2016
 
-Linuxing in London is a regular London Meetup and online community at Meetup.com and Github.com. 
+Linuxing in London ("we") are regular London Meetups and an online community. 
 
 We use 3rd party organisations to collect, use, and disclose Personal Information we receive from you.
 
@@ -19,7 +19,15 @@ We have procedures and security features in place to help us in our efforts to k
 
 We won't share your information with any other organisations for marketing, market research, or commerical purposes, and we don't pass on your details.
 
+####Handling Of Your Data
+All data will be handled in respect of the Data Protection Act 1998. 
+
+####Disclosing Your Information
+We may pass your information on if we have legal obligation to do so.
+
 ####Communications
 We may use your Personal Information to contact you with newsletters
 TBD
 
+####Your Rights
+You may ask for a copy of the information we hold of you at any point. Contact details of organisers can be found in our Code of Conduct.
