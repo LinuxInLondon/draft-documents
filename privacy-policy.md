@@ -31,3 +31,6 @@ TBD
 
 ####Your Rights
 You may ask for a copy of the information we hold of you at any point. Contact details of organisers can be found in our Code of Conduct.
+
+####General
+Our failure to exercise or enforce any right or provision of these terms shall not constitute a waiver of such right or provision.
