@@ -2,7 +2,7 @@
 
 Quality content is critical to a successful event and is vital in receiving a positive audience response.  Linuxing in London relies upon the good faith of external speakers to complement our events, add credibility and perceived value for our audience members.
 
-Talks should be 20-25 minutes and our audience has expressed a wish for more technical content and hands-on demostration, whenever possible.
+Talks will generally be 20-25 minutes with 5+ minutes of questions and answers. Our audience has expressed a wish for more technical content and hands-on demonstrations, whenever possible.
 
 ####Speakers should provide:
 
