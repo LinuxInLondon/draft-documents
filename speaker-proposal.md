@@ -10,7 +10,7 @@ Talks will generally be 20-25 minutes with 5+ minutes of questions and answers. 
 
 * Inspiration – a speaker can offer a thought-provoking or motivational speech to encourage our audience to adopt new concepts or conquer new challenges.
 
-* Visibility – a speaker can be a true asset to our agenda, attract a greater attendance and increase overall interest in Linux, BSD and all derivatives. 
+* Visibility – a speaker can be a true asset to our agenda, attract a greater attendance and increase overall interest in Linux, BSD and all derivatives.
 
 ####To submit a speaker proposal please provide the following:
 
